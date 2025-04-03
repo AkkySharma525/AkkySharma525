@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 - 👨‍💻 I’m currently pursuing my **B.Tech in Information Technology**.
-- 🏆 My hackathon journey includes winning **1st place at IIT Guwahati and IIT Kanpur**.
 - 💡 I love working on innovative projects.
 - 🎯 My goal is to contribute to impactful tech solutions.
 
